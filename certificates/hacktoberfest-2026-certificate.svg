@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <defs>
+    <style>
+      .yellow { fill: #e6b01d; }
+      .gold { fill: #f2c94c; }
+      .dark { fill: #0d2e2d; }
+      .border { stroke: #f0c540; stroke-width: 12; }
+      .light { fill: #f6f0ea; }
+      .muted { fill: #c8d0d1; }
+      .soft { fill: #ebc66a; }
+    </style>
+  </defs>
+
+  <rect x="20" y="20" width="1560" height="960" fill="#e7b93b"/>
+  <rect x="50" y="50" width="1500" height="900" fill="#0d2e2d" class="dark" stroke="#f0c540" stroke-width="12"/>
+
+  <g>
+    <rect x="50" y="50" width="50" height="20" fill="#f2c94c"/>
+    <rect x="105" y="50" width="20" height="20" fill="#f1a7b4"/>
+    <rect x="130" y="50" width="40" height="20" fill="#e08f5a"/>
+  </g>
+
+  <g>
+    <rect x="1120" y="50" width="50" height="20" fill="#f2c94c"/>
+    <rect x="1175" y="50" width="20" height="20" fill="#f1a7b4"/>
+    <rect x="1200" y="50" width="40" height="20" fill="#e08f5a"/>
+  </g>
+
+  <g fill="#e9d1a0" opacity="0.8">
+    <rect x="1270" y="140" width="18" height="18"/>
+    <rect x="1288" y="140" width="20" height="20"/>
+    <rect x="1310" y="140" width="17" height="17"/>
+    <rect x="1332" y="140" width="22" height="22"/>
+  </g>
+
+  <g fill="#f1a7b4">
+    <rect x="350" y="50" width="40" height="40"/>
+    <rect x="430" y="50" width="55" height="55"/>
+  </g>
+
+  <g fill="#f9d765" opacity="0.95">
+    <rect x="320" y="100" width="22" height="22"/>
+    <rect x="360" y="120" width="18" height="18"/>
+    <rect x="795" y="120" width="18" height="18"/>
+    <rect x="1180" y="120" width="20" height="20"/>
+  </g>
+
+  <text x="800" y="180" text-anchor="middle" font-size="104" font-weight="900" fill="#f9f7f4" font-family="Arial, Helvetica, sans-serif">HACKTOBERFEST</text>
+  <text x="1210" y="180" font-size="44" font-weight="700" fill="#f0c540" font-family="Arial, Helvetica, sans-serif">26</text>
+
+  <text x="800" y="300" text-anchor="middle" font-size="34" letter-spacing="6" fill="#f3c857" font-family="Arial, Helvetica, sans-serif">CERTIFICATE OF COMPLETION</text>
+  <text x="800" y="360" text-anchor="middle" font-size="28" fill="#f3efe8" font-family="Georgia, 'Times New Roman', serif" font-style="italic">This certifies that</text>
+
+  <text x="800" y="520" text-anchor="middle" font-size="172" font-weight="900" fill="#f5f0ec" font-family="Arial, Helvetica, sans-serif">white devil</text>
+
+  <text x="800" y="640" text-anchor="middle" font-size="25" fill="#f5f0ec" font-family="Georgia, 'Times New Roman', serif">
+    <tspan>became a Hacktoberfest 2026 </tspan>
+    <tspan fill="#f0c540" font-weight="700">Completionist</tspan>
+    <tspan> on November 1, 2026</tspan>
+  </text>
+
+  <path d="M 250 710 C 330 680, 400 690, 480 710" stroke="#f5f0ec" stroke-width="3" fill="none"/>
+  <text x="360" y="760" text-anchor="middle" font-size="26" fill="#f5f0ec" font-style="italic" font-family="Georgia, 'Times New Roman', serif">The Hacktoberfest team</text>
+  <text x="360" y="800" text-anchor="middle" font-size="22" fill="#b8c3c7" font-family="Arial, Helvetica, sans-serif">hacktoberfest.com</text>
+
+  <g transform="translate(850, 660)">
+    <g transform="translate(0,0)">
+      <rect x="0" y="0" width="120" height="120" rx="18" fill="#f5f0ec"/>
+      <path d="M 60 18 L 92 52 L 76 52 L 60 66 L 44 52 L 28 52 Z" fill="#0d2e2d"/>
+      <path d="M 55 40 L 60 18 L 73 40 Z" fill="#0d2e2d"/>
+      <rect x="40" y="58" width="40" height="30" fill="#0d2e2d"/>
+    </g>
+  </g>
+
+  <g transform="translate(1060, 690)" font-family="Arial, Helvetica, sans-serif" fill="#f5f0ec">
+    <text x="0" y="20" font-size="18" letter-spacing="2">POWERED BY</text>
+    <rect x="0" y="40" width="110" height="40" fill="#f5f0ec" opacity="0.18"/>
+    <text x="0" y="72" font-size="28" font-weight="700">m</text>
+    <text x="26" y="72" font-size="28" font-weight="700">L</text>
+    <text x="46" y="72" font-size="28" font-weight="700">H</text>
+    <text x="78" y="72" font-size="16" font-weight="700" fill="#f0c540">DEV</text>
+  </g>
+
+  <g transform="translate(1280, 690)" font-family="Arial, Helvetica, sans-serif" fill="#f5f0ec">
+    <text x="0" y="20" font-size="18" letter-spacing="2">PRESENTING PARTNER</text>
+    <circle cx="40" cy="58" r="28" fill="none" stroke="#f5f0ec" stroke-width="4"/>
+    <path d="M 20 60 Q 40 22 60 60" fill="none" stroke="#f5f0ec" stroke-width="4"/>
+    <path d="M 16 38 Q 40 56 64 38" fill="none" stroke="#f5f0ec" stroke-width="4"/>
+    <text x="88" y="70" font-size="26" font-weight="700">DigitalOcean</text>
+  </g>
+
+  <g fill="#f0c540">
+    <rect x="110" y="80" width="12" height="42"/>
+    <rect x="95" y="110" width="12" height="28"/>
+    <rect x="1450" y="90" width="14" height="42"/>
+    <rect x="1480" y="110" width="12" height="28"/>
+    <rect x="1450" y="820" width="18" height="36"/>
+    <rect x="1480" y="840" width="15" height="30"/>
+    <rect x="110" y="820" width="18" height="36"/>
+  </g>
+
+  <g fill="#f1a7b4">
+    <rect x="185" y="120" width="26" height="26"/>
+    <rect x="220" y="120" width="18" height="18"/>
+    <rect x="1355" y="130" width="18" height="18"/>
+    <rect x="1315" y="130" width="25" height="25"/>
+  </g>
+
+  <g fill="#ec8b6a">
+    <rect x="145" y="550" width="30" height="30"/>
+    <rect x="1380" y="600" width="28" height="28"/>
+  </g>
+</svg>
